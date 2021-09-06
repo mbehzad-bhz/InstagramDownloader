@@ -34,7 +34,6 @@ this package use for download video and image from Instagram
     $instagramDownloader = new instagramDownloader('https://www.instagram.com/p/CTR5ES4LkU2/');
     dd($instagramDownloader->getDetail());
 ```
-> we just send your local image file after that you can save where you like 
 
 
 sample response
