@@ -1,0 +1,22 @@
+{
+    "name": "tenetup/instagram-downloader",
+    "description": "this package use for download video and image from Instagram",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/config": "^8.0",
+        "illuminate/support": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TenetUp\\InstagramDownloader\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "majid behzadnasab",
+            "email": "bhz.majid@gmail.com"
+        }
+    ]
+}
